@@ -1,0 +1,6 @@
+{
+  "name": "Fleet & Attendance Tracker",
+  "description": "Logistics tracker with camera vehicle OCR for Bhubaneswar/Jharsuguda routes, channel partner attendance monitoring, and administrator data export dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
